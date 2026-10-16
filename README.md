@@ -40,8 +40,6 @@
 
 ### 3. Normality of Residuals (Q–Q Plot)
 
-![Q-Q plot of standardized residuals](images/qq_plot.png)
-
 The standardized residuals lie very close to the reference line, with only slight deviation at the extreme tails (skewness = 0.009, excess kurtosis = 0.067); residuals are approximately normal.
 
 ### Normality Test (Shapiro-Wilk)
